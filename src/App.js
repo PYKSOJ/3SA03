@@ -1,13 +1,13 @@
 import React from 'react';
+import Game from './components/Game'
 import './App.css';
-import WordCard from './WordCard';
-import 'semantic-ui-css/semantic.min.css'
 
 function App() {
   return (
-    <div>
-      <WordCard value='hello' />
+    <div className="layout">
+      <Game />
     </div>
   );
 }
+
 export default App;
