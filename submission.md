@@ -24,7 +24,8 @@ function App() {
     <div>Hello World</div>
   );
 }
-export default App;```
+export default App;
+```
     จะมีข้อความแสดงว่า Hello World
     ##JSX <br />
     ทดลองเปลี่ยน ข้อความ Hello World ในไฟล์ App.js เป็น `Hello {“World”}` <br />
