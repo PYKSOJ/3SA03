@@ -17,7 +17,7 @@
   `yarn start` คือคำสั่งเริ่มต้นการทำงานของโปรเจค card-game<br />
   มีการปรับปรุงที่ไฟล์ App.js ดังนี้
 
-````import React from 'react';
+```import React from 'react';
 import './App.css';
 function App() {
   return (
@@ -26,11 +26,11 @@ function App() {
 }
 export default App;
 ```
-    จะมีข้อความแสดงว่า Hello World
+จะมีข้อความแสดงว่า Hello World<br />
     ##JSX <br />
     ทดลองเปลี่ยน ข้อความ Hello World ในไฟล์ App.js เป็น `Hello {“World”}` <br />
 - ตอนที่ 4
 - ตอนที่ 5
 - ตอนที่ 6
 
-````
+
